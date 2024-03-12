@@ -17,6 +17,7 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 The following REQUIRED features are completed:
 
 - ✅ Pick an app screenshot to duplicate
+
     - Be sure to add the screenshot to "Chosen Screenshot" below.
 - ✅ Create a runnable app that displays an Animal Version of your chosen screenshot
 - ✅ Layout uses one (1) or more ConstraintLayout
@@ -36,15 +37,15 @@ The following EXTRA features are implemented:
 
 ## Chosen Screenshot
 
-I have chosen to duplicate the following layout from the **App Name Here** app:
+I have chosen to duplicate the following layout from the **Duolingo** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+![Demo copy](https://github.com/fcamas/AnimalApps/assets/76220782/ef4e5fdd-fbcb-4f27-8c3c-a65ddb263da3)
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![Kapture 2024-03-11 at 23 45 37](https://github.com/fcamas/AnimalApps/assets/76220782/de5eda94-0fa8-47fd-bafe-c047f106cc22)
 
 GIF created with **your chosen GIF tool**
 
@@ -67,7 +68,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2024** **fredy camas**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
